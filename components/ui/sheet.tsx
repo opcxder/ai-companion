@@ -14,11 +14,6 @@ const SheetTrigger = SheetPrimitive.Trigger
 const SheetClose = SheetPrimitive.Close
 
 const SheetPortal = ({
-<<<<<<< HEAD
-
-=======
- 
->>>>>>> c704bafaad2e22ecd11f827c358a95c07eafefc0
   ...props
 }: SheetPrimitive.DialogPortalProps) => (
   <SheetPrimitive.Portal  {...props} />
